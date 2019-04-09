@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Equipment Scanner</string>
+    <string name="clickme">Scan Code</string>
+    <string name="logo">The Logo For Hatch</string>
+    <string name="dialog_message">message</string>
+    <string name="dialog_title">title</string>
+
+</resources>
